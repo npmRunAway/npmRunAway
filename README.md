@@ -2,7 +2,17 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ICodeStuff5&label=Profile%20views&color=60598F&style=flat)
 
-<div class="github-introduction"> </div>
+<div class="github-introduction">
+  
+  I began my career in Front-End Development, crafting responsive and user-centric website interfaces with a strong emphasis on design systems and accessibility.
+  As I explored deeper technical challenges, my curiosity naturally shifted toward data-driven development and intelligent systems, eventually steering me toward the field of Machine Learning and Applied Artificial Intelligence (AI).
+  <br>
+  
+  Currently, I am focused on bridging gap between technical implementation and strategic execution, combining hands-on experience in Machine Learning with growing expertise in Project Management.
+  I am especially interested in building collaborative, cross-functional workflows that turn complex ideas into real-world solutions — all while keeping scalability, impact, and client value at the core.
+  <br>
+  
+</div>
 
 - 💼 Are you interested in working together? Reach out to me!
 - ☁️ Got a question or just curious about something? Feel free to ask! Chat me on <a href="https://wa.me/+971504196249" target="_blank">WhatsApp.</a>
@@ -61,7 +71,7 @@
         <div style="display: flex; flex-direction: column; gap: 5px;">
           <img src="https://img.shields.io/badge/Node.js-5277C3?style=flat&logo=nodedotjs&logoColor=white">
           <img src="https://img.shields.io/badge/PHP-326CE5?style=flat&logo=php&logoColor=white">
-          <img src="https://img.shields.io/badge/Laravel-000000?style=flat&logo=laravel&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white">
         </div>
       </td>
     </tr>
