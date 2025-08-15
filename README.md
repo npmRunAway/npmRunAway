@@ -34,3 +34,36 @@
 - 🧪
 
 ## 🧰 Language Evolution
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Then-333333?style=flat&logoColor=white"></td>
+      <td align="center"><img src="https://img.shields.io/badge/Now-483699?style=flat&logoColor=white"></td>
+      <td align="center"><img src="https://img.shields.io/badge/Exploring-2B90D9?style=flat&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td>
+        <div style="display: flex; flex-direction: column; gap: 5px;">
+          <img src="https://img.shields.io/badge/HTML-0078D6?style=flat&logo=html5&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS-007ACC?style=flat&logo=css&logoColor=white">
+          <img src="https://img.shields.io/badge/JavaScript-5391FE?style=flat&logo=javascript&logoColor=white">
+        </div>
+      </td>
+      <td>
+        <div style="display: flex; flex-direction: column; gap: 5px;">
+          <img src="https://img.shields.io/badge/React-1793D1?style=flat&logo=react&logoColor=white">
+          <img src="https://img.shields.io/badge/TailwindCSS-41A6B9?style=flat&logo=tailwindcss&logoColor=white">
+          <img src="https://img.shields.io/badge/Angular-2357A143?style=flat&logo=angular&logoColor=white">
+        </div>
+      </td>
+      <td>
+        <div style="display: flex; flex-direction: column; gap: 5px;">
+          <img src="https://img.shields.io/badge/Node.js-5277C3?style=flat&logo=nodedotjs&logoColor=white">
+          <img src="https://img.shields.io/badge/PHP-326CE5?style=flat&logo=php&logoColor=white">
+          <img src="https://img.shields.io/badge/Laravel-000000?style=flat&logo=laravel&logoColor=white">
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
