@@ -1,6 +1,6 @@
 # Oi, World! I'm Evan. 👋🏼
 
-![Profile Views](https://komarev.com/ghpvc/?username=ICodeStuff5&label=Profile%20views&color=60598F&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=npmRunAway&label=Profile%20views&color=60598F&style=flat)
 
 <div class="github-introduction">
   
@@ -31,8 +31,8 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ICreateStuff5&theme=transparent&show_icons=true&hide_border=true&count_private=true" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ICreateStuff5&theme=transparent&hide_border=true&count_private=true" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=npmRunAway&theme=transparent&show_icons=true&hide_border=true&count_private=true" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=npmRunAway&theme=transparent&hide_border=true&count_private=true" height="165">
   </p>
 </div>
 
